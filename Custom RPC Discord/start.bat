@@ -1,5 +1,5 @@
 
 :sayo
-title selfbot
+title Custom RPC
 node index.js
 goto :sayo
