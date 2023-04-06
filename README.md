@@ -9,3 +9,5 @@ when it's done check your profils and it's should add the RPC
 
 you can also add gif or png on the image RPC
 
+![alt text](https://i.imgur.com/U2jD494.png)
+
