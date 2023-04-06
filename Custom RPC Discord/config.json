@@ -1,0 +1,19 @@
+{
+    "TOKEN": "ENTER YOUR TOKEN HERE",
+
+    "RPC_ID": "841645044486242345",
+    "RPC_TYPE": "STREAMING",
+    "RPC_URL": "https://twitch.tv/misakiii_",
+    "RPC_STATE": "Custom RPC",
+    "RPC_NAME": "test000",
+    "RPC_DETAILS": "Custom RPC By Misaki",
+
+    "RPC_LARGE_IMAGE": "mp:attachments/1089999364677705849/1089999391613517895/74469788.png",
+    "RPC_LARGE_IMAGE_TEXT": "Custom RPC by Misaki",
+
+    "RPC_SMALL_IMAGE": "",
+    "RPC_SMALL_IMAGE_TEXT": "",
+
+    "RPC_BUTTON_URL": "",
+    "RPC_BUTTON_TEXT": ""
+}
